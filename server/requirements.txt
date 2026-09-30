@@ -1,0 +1,3 @@
+# Optional — the server runs with plain Python, these make it better:
+pillow      # small JPEG frames for the live screen (otherwise PNG)
+anthropic   # needed only when the AI provider is Anthropic Claude
